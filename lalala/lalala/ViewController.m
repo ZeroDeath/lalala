@@ -17,6 +17,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    NSLog(@"我只能说6666666666666666");
+    
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
