@@ -30,6 +30,8 @@
      NSLog(@"同上+1");
      NSLog(@"同上+1");
     
+    NSLog(@"我赵日天不服");
+    
 }
 
 - (void)didReceiveMemoryWarning {
