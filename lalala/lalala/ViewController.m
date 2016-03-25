@@ -24,6 +24,7 @@
     NSLog(@"操你妈逼");
     NSLog(@"同上+1");
     NSLog(@"我要日了你");
+    NSLog(@"nicb");
      NSLog(@"同上+1");
      NSLog(@"同上+1");
      NSLog(@"同上+1");
